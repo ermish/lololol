@@ -3,11 +3,11 @@
 
 ## What is it?
 
-Have you ever found a C# method that seems completely illogical or redundant? 
-Ever been coding until you become hysterical? 
-Have you even been...bored?
-Then this fully functional framework is for you!
-Enjoy!
+* Have you ever found a C# method that seems completely illogical or redundant? 
+* Ever been coding until you become hysterical? 
+* Have you even been...bored?
+* Then this fully functional framework is for you!
+* Enjoy!
 
 ## How do I use it?
 
