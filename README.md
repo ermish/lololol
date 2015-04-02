@@ -1,9 +1,6 @@
 # lololol
 
 
-#lololol
-
-
 ## What is it?
 
 Have you ever found a C# method that seems completely illogical or redundant? 
